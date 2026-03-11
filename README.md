@@ -41,8 +41,8 @@
 ### 📊 我的 GitHub 统计
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yutianhui&show_icons=true&theme=github_light" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutianhui&layout=compact&theme=github_light" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yutianhui&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutianhui&layout=compact" />
 </p>
 
 ---
