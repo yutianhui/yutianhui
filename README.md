@@ -51,6 +51,6 @@
 * **Email:** [leibohui@qq.com]
 * **Focus:** 目前专注于微服务架构优化与云原生技术探索。
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yutianhui&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
